@@ -1,0 +1,50 @@
+/* CSS Document */
+body{
+	background-color:#e7e4e4;
+	color:#323333;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+article{
+	max-width:60ch;
+	margin: auto;
+	margin-bottom:50px;
+}
+
+img {
+	max-width: 100%;
+}
+
+.imageText{
+}
+
+header{
+	margin:0;
+	border-bottom:thin solid darkgrey;
+
+}
+p, ul, ol {
+	line-height:150%;
+	font-size:18px;
+	}
+
+#authors{
+	font-size:14px;
+	margin:0;
+	color:#575757;
+}
+#date{
+	font-size:12px;
+	margin:5;
+}
+#intro,#purpose,#targetGroups,#organization,#specifics,#location,#technicalDifficulties{
+	border-bottom:thin solid darkgrey;
+}
+footer p{
+	margin-top:100px;
+	max-width:100ch;
+	font-size:11px;
+	margin:auto;
+	text-align:center;
+	
+}
